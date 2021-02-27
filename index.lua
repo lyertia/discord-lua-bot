@@ -15,3 +15,4 @@ client:on('messageCreate', function(message)
 end)
 
 client:run("Bot " .. yourToken)
+client:setGame("github.com/lyertia")
